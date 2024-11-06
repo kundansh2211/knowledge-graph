@@ -7,3 +7,4 @@ langchain
 langchain-openai
 langchain-experimental
 PyPDF2
+requests_cache
