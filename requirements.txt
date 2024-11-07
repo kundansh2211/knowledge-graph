@@ -1,0 +1,10 @@
+langchain
+neo4j
+neo4j-driver
+python-dotenv
+langchain-community 
+langchain
+langchain-openai
+langchain-experimental
+PyPDF2
+requests_cache
