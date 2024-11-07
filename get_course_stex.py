@@ -39,7 +39,6 @@ def get_raw_stex(archive: str, filename: str):
     url = get_raw_stex_url(archive, filename)
     return requests.get(url).text
 
-
 def save_content_to_file(content: str, archive: str, filename: str, course_id: str):
     # Dynamically create directory based on course_id (e.g., course_notes/LBS)
     # directory = os.path.join(
